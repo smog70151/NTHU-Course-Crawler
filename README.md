@@ -18,7 +18,7 @@
 
 2. cond: 'a' (Method I)
 
-3. cou_code: 'ANTH' (dept abbr)
+3. cou_code: 'ANTH' (dept abbv)
 
 4. auth_num: auto gen
 
